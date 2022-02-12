@@ -99,7 +99,7 @@
 span {
   color: #777;
   font-size: 12px;
-  bottom: 68px;
+  top: 68px;
   position: absolute;
 }
 
@@ -109,5 +109,4 @@ span {
 
 .register2 {
   left: 450px;
-  position: relative;
 }
