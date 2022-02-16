@@ -69,7 +69,7 @@
   position: relative;
 }
 .input-field {
-  width: 100%;
+  width: 80%;
   padding: 10px 0;
   margin: 5px 0;
   border-left: 0;
@@ -81,10 +81,9 @@
 }
 
 .submit-btn {
-  width: 85%;
+  width: 70%;
   padding: 10px 30px;
   cursor: pointer;
-  display: block;
   margin: auto;
   background: linear-gradient(to right, #525051, #b4b4b4);
   border: 0;
@@ -99,16 +98,17 @@
 span {
   color: #777;
   font-size: 12px;
-  top: 68px;
+  bottom: 68px;
   position: absolute;
 }
 
-.login {
+#login {
   left: 50px;
 }
 
-.register2 {
+#register2 {
   left: 450px;
+  bottom: 240px;
 }
 
 .social-icons {
